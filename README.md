@@ -1,2 +1,2 @@
 # How to use
-- Execute `firmware-info.sh` in target phone from Termux or ADB Shell or other programs
+- Execute `firmware-info.sh` on target phone from Termux or ADB Shell or other programs
