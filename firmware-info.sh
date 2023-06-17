@@ -1,5 +1,5 @@
 echo 'Model:'
-getprop ro.product.odm.model
+getprop ro.product.model
 echo
 echo 'Region:'
 getprop ro.csc.omcnw_code
@@ -12,4 +12,4 @@ echo 'CSC:'
 getprop ril.official_cscver
 echo
 echo 'Phone:'
-getprop ro.build.PDA
+getprop ril.sw_ver
