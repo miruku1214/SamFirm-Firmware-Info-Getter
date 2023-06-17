@@ -1,2 +1,2 @@
 # How to use
-- Execute from Termux or ADB Shell
+- Execute `firmware-info.sh` from Termux or ADB Shell
