@@ -1,2 +1,2 @@
-# SamFirm-Firmware-Info-Getter
-A simple shell script to get Samsung Galaxy firmware info for SamFirms
+# How to use
+- Execute from Termux or ADB Shell
